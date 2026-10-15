@@ -1,0 +1,15 @@
+
+> leadflow-frontend@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+  - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 2.5s
+ ○ Compiling / ...
+ ✓ Compiled / in 3.7s (791 modules)
+ GET / 200 in 3973ms
+ ✓ Compiled in 370ms (359 modules)
+[?25h
